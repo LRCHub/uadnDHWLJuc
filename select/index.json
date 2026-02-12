@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "FUNKASTIC",
+  "base_artist": "RIP SLYME",
+  "createdAt": "2026-02-12T05:24:50.527577Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FUNKASTIC",
+      "artist": "RIP SLYME",
+      "has_synced": true,
+      "path": "select/01_FUNKASTIC_RIP_SLYME.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "FUNKASTIC BATTLE 〜RIP SLYME vs HOTEI〜",
+      "artist": "RIP SLYME",
+      "has_synced": true,
+      "path": "select/02_FUNKASTIC_BATTLE_〜RIP_SLYME_vs_HOTEI〜_RIP_SLYME.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "FUNKASTIC BATTLE 〜RIP SLYME vs HOTEI〜",
+      "artist": "RIPSLYME",
+      "has_synced": true,
+      "path": "select/03_FUNKASTIC_BATTLE_〜RIP_SLYME_vs_HOTEI〜_RIPSLYME.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "FUNKASTIC BATTLE",
+      "artist": "RIP SLYME vs 布袋寅泰",
+      "has_synced": true,
+      "path": "select/04_FUNKASTIC_BATTLE_RIP_SLYME_vs_布袋寅泰.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "FUNKASTIC BATTLE",
+      "artist": "RIP SLYME",
+      "has_synced": true,
+      "path": "select/05_FUNKASTIC_BATTLE_RIP_SLYME.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "FUNKASTIC",
+      "artist": "Rip Slyme",
+      "has_synced": true,
+      "path": "select/06_FUNKASTIC_Rip_Slyme.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "FUNKASTIC BATTLE (RIP SLYME vs HOTEI)",
+      "artist": "Rip Slyme",
+      "has_synced": true,
+      "path": "select/07_FUNKASTIC_BATTLE_(RIP_SLYME_vs_HOTEI)_Rip_Slyme.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "FUNKASTIC BATTLE~RIP SLYME VS HOTEI",
+      "artist": "RIP SLYME",
+      "has_synced": true,
+      "path": "select/08_FUNKASTIC_BATTLE~RIP_SLYME_VS_HOTEI_RIP_SLYME.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Battle Funkastic",
+      "artist": "Hotei",
+      "has_synced": true,
+      "path": "select/09_Battle_Funkastic_Hotei.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "FUNKASTIC",
+      "artist": "RIP SLYME",
+      "has_synced": true,
+      "path": "select/10_FUNKASTIC_RIP_SLYME.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "EARLY TIMES 2001-2007 - FUNKASTIC BATTLE (RIP SLYME vs HOTEI)",
+      "artist": "RIP SLYME",
+      "has_synced": true,
+      "path": "select/11_EARLY_TIMES_2001-2007_-_FUNKASTIC_BATTLE_(RIP_SLYME_vs_HOTEI)_RIP_SLYME.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "FUNKASTIC BATTLE (feat. 布袋寅泰)",
+      "artist": "RIP SLYME",
+      "has_synced": true,
+      "path": "select/12_FUNKASTIC_BATTLE_(feat._布袋寅泰)_RIP_SLYME.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "FUNKASTIC  (GREATEST FIVE Version)",
+      "artist": "Rip Slyme",
+      "has_synced": true,
+      "path": "select/13_FUNKASTIC_(GREATEST_FIVE_Version)_Rip_Slyme.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "FUNKASTIC (feat. Breakestra)  (Bonus track)",
+      "artist": "Rip Slyme",
+      "has_synced": true,
+      "path": "select/14_FUNKASTIC_(feat._Breakestra)_(Bonus_track)_Rip_Slyme.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FUNKASTIC",
+      "artist": "RIP SLYME",
+      "has_synced": false,
+      "path": "select/pl_01_FUNKASTIC_RIP_SLYME.txt"
+    }
+  ]
+}
